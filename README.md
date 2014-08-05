@@ -8,6 +8,7 @@ http://stackoverflow.com/questions/24870689/hasmany-save-not-working-on-grails-2
 
 Issue seems to be the Grails Data Binder, The Spring Binder works as expected.
 ------------------------------------------------------------------------------
+JIRA: https://jira.grails.org/browse/GRAILS-11638
 
 1. go to http://localhost:8080/ttiDebugApp/container/create
 2. Fill in all fields
